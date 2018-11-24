@@ -1,2 +1,2 @@
 # smartbox
-All the codes for smart lock box
+It contains the codes of all different modules working independently.
